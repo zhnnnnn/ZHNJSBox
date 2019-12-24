@@ -1,7 +1,7 @@
 # ZHNJSBox
 
  <div  align="center">    
- <img src="https://raw.githubusercontent.com/zhnnnnn/ZHNCosmos_GIFs/master/ZHNJSBox_demo.png" width = "988" height = "706" alt="图片名称" align=center />
+ <img src="https://raw.githubusercontent.com/zhnnnnn/ZHNCosmos_GIFs/master/ZHNJSBox_demo_combine.png" width = "988" height = "706" alt="图片名称" align=center />
  </div>
 
 ## 描述
